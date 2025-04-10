@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "carMovieName": "Baby Driver",
+    "carMovieYear": "2017",
+    "duration": 113
+  },
+  {
+    "id": "2",
+    "carMovieName": "Bullitt",
+    "carMovieYear": "1968",
+    "duration": 114
+  },
+  {
+    "id": "3",
+    "carMovieName": "Cars",
+    "carMovieYear": "2006",
+    "duration": 117
+  },
+  {
+    "id": "4",
+    "carMovieName": "Christine",
+    "carMovieYear": "1983",
+    "duration": 110
+  },
+  {
+    "id": "5",
+    "carMovieName": "Days of Thunder",
+    "carMovieYear": "1990",
+    "duration": 107
+  },
+
+]
