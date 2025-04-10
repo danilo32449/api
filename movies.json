@@ -28,6 +28,6 @@
     "carMovieName": "Days of Thunder",
     "carMovieYear": "1990",
     "duration": 107
-  },
-
+  }
+  // Puedes tener más objetos de películas aquí
 ]
